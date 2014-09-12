@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repo for Dara Science course on coursera.org
+Repo for Data Science course on coursera.org
